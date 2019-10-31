@@ -8,3 +8,4 @@ plot_Int_traj.py: Plots trajectory, Intensity and 10m wind speed of a given TC
 
 plot_dom_suite.py: Plots the domains specified in the cylc-rose suite of nested regional models, reading the input rose-suite.conf containing the relevant variables
 
+PR of these script' inputs and outputs may be restricted, hence they are not included in this repository
