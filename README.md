@@ -1,6 +1,8 @@
 This repository contains a show-case of python scripts I developed for different purposes:
 
-Fig1_plot_PB_2D_COLORMESH.py: Plots the rate of error of geopotential height at Z500 (a fundamental field on mid-latitude meteorology) for all forecast lead times and initialization times to highlight validation times where errors are more likely to occur. This plot is the basis for the Predictability barriers idea, introduced in Sanchez et al. 2019 (in preparation)
+GPM_download: A script to customized acumulated precipitation from the Global Precipitation Measurement (GPM) satellite product from a centralized location. 
+
+Fig1_plot_PB_2D_COLORMESH.py: Plots the rate of error of geopotential height at Z500 (a fundamental field on mid-latitude meteorology) for all forecast lead times and initialization times to highlight validation times where errors are more likely to occur. This plot is the basis for the Predictability barriers idea, introduced in Sanchez et al. 2019.
 
 output_models.py: Reads a database of location and intensity of forecasted tropical cyclones (TC), and outputs a chosen TC with a specific time format
 
